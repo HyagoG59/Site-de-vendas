@@ -14,10 +14,10 @@ body {
 
 
 .botao {
-    background-color: #646464;
+    background-color: #00357a;
     border-radius: 10px;
     padding: 1em;
-    color: rgb(0, 0, 0);
+    color: white;
     font-style: none;
     margin-bottom: 2em;
     text-decoration: none;
