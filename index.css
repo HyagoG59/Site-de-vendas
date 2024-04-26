@@ -19,6 +19,7 @@ body {
     padding: 1em;
     color: rgb(0, 0, 0);
     font-style: none;
+    margin: 50vh;
 
 }
 
@@ -45,4 +46,5 @@ body {
 .logo{
  height: 200px;
  width: 400px;
+
 }
