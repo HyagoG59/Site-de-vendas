@@ -37,7 +37,7 @@ body {
 }
 
 .text {
-    text-size-adjust: 80%;
+    font-size: medium;
     margin: 25vh;
 
 }
