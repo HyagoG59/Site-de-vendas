@@ -15,12 +15,6 @@ body {
 
 }
 
-.conteiner {
-    display: grid;
-    grid-template-columns: 50% 50%;
-
-}
-
 .botao {
     background-color: #120063;
     border-radius: 16px;
