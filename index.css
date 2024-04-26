@@ -10,9 +10,9 @@ body {
 }
 
 .thor {
-    height: 200px;
-    width: 200px;
-    grid-area: left;
+    height: 50%;
+    width: 50%;
+
 
 }
 
