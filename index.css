@@ -27,7 +27,7 @@ body {
     display: grid;
     grid-template-columns: 50% 50%;
     text-align: center;
-    text-size-adjust: 50%;
+    text-size-adjust: 100%;
 
 }
 
