@@ -57,6 +57,8 @@ body {
 }
 
 .botoes{
+    background-color: whitesmoke;
+    color: black;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
