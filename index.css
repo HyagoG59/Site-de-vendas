@@ -55,3 +55,8 @@ body {
     height: 100px;
 
 }
+
+.botoes{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
