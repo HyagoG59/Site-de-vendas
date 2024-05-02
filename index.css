@@ -3,6 +3,7 @@ body {
     background-image: url(https://site-de-vendas-pi.vercel.app/Design%20sem%20nome.png);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: right;
     color: rgb(255, 255, 255)
 
 
