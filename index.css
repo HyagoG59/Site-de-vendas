@@ -57,7 +57,9 @@ body {
 }
 
 .botoes{
+    padding: 1em;
     background-color: none;
+    text-align: center;
     color: black;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
