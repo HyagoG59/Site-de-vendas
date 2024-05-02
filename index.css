@@ -68,5 +68,7 @@ body {
 .botaos{
     padding: 1em;
     background-color: grey;
+    color: black;
+    border-radius: 5px;
 
 }
