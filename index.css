@@ -60,6 +60,7 @@ body {
     padding: 1em;
     background-color: none;
     text-align: center;
+    font-style: none;
     color: black;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
