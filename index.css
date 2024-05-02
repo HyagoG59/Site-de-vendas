@@ -63,5 +63,5 @@ body {
     font-style: none;
     color: rgb(253, 253, 253);
     display: grid;
-    grid-template-columns: 10% 15% 25% 25% 25%;
+    grid-template-columns: 10% 30% 30% 15% 15%;
 }
