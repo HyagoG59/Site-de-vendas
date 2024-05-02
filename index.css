@@ -61,7 +61,7 @@ body {
     background-color: none;
     text-align: center;
     font-style: none;
-    color: black;
+    color: rgb(253, 253, 253);
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 10% 15% 25% 25% 25%;
 }
