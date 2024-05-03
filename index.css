@@ -114,12 +114,13 @@ body {
 .thor{
     width: 500px;
     height: 500px;
+    margin: 0 5vh;
 
 }
 
 .texto2 {
     font-size: 30px;
-    font-style: none;
+    
 
 
 }
