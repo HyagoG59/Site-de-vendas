@@ -67,11 +67,10 @@ body {
 
 .botaos{
     padding: 1em;
+    font-style: none;
     background-color: grey;
     color: black;
-    font-style: none;
     border-radius: 10px;
     border: 5px rgb(72, 72, 72);
-    font-style: none;
 
 }
