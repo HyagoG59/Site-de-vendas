@@ -67,7 +67,7 @@ body {
 
 .botao1{
     font-style: none;
-    padding: 1vh;
+    padding: 1vh 2vh;
     background-color: grey;
     color: black;
     border-radius: 10px;
