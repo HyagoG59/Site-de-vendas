@@ -74,3 +74,33 @@ body {
     border: solid black 1px;
 
 }
+
+.botao2 {
+    font-style: none;
+    padding: 1vh;
+    background-color: grey;
+    color: black;
+    border-radius: 10px;
+    border: solid black 1px;
+
+}
+
+.botao3{
+    font-style: none;
+    padding: 1vh;
+    background-color: grey;
+    color: black;
+    border-radius: 10px;
+    border: solid black 1px;
+
+}
+
+.botao4{
+    font-style: none;
+    padding: 1vh;
+    background-color: grey;
+    color: black;
+    border-radius: 10px;
+    border: solid black 1px;
+
+}
