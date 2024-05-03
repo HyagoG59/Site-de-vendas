@@ -112,6 +112,7 @@ body {
     background-position: left;
     display: grid;
     grid-template-columns: 50% 50%;
+    text-align: center;
 
 }
 
