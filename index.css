@@ -21,8 +21,8 @@ body {
 
 
 .botao {
-    background-color: var(--texto-botao);
-    color: #000;
+    background-color: var(--botao);
+    color: var(--texto-botao);
     border-radius: 10px;
     padding: 1em;
     font-style: none;
