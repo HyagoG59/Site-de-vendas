@@ -20,7 +20,7 @@ body {
 
 
 .botao {
-    background-color: var(--branco-principal));
+    background-color: var(--botao);
     color: #000;
     border-radius: 10px;
     padding: 1em;
