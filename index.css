@@ -1,6 +1,7 @@
 :root {
     --branco-principal: white;
     --botao: #0f00b1;
+    --texto: #000000;
 
 }
 
@@ -13,7 +14,8 @@ body {
 }
 
 * {
-    padding: 0%;
+    margin: 0;
+    padding: 0;
 }
 
 
