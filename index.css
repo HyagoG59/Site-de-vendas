@@ -21,9 +21,9 @@ body {
 
 .botao {
     background-color: var(--branco-principal));
+    color: #000;
     border-radius: 10px;
     padding: 1em;
-    color: white;
     font-style: none;
     margin-bottom: 2em;
     text-decoration: none;
