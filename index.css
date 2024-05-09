@@ -2,6 +2,7 @@
     --branco-principal: white;
     --botao: #0f00b1;
     --texto: #000000;
+    --texto-botao: white;
 
 }
 
@@ -20,7 +21,7 @@ body {
 
 
 .botao {
-    background-color: var(--botao);
+    background-color: var(--texto-botao);
     color: #000;
     border-radius: 10px;
     padding: 1em;
