@@ -1,3 +1,9 @@
+:root {
+    --branco-principal: white;
+    --botao: #0f00b1;
+
+}
+
 body {
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0)
@@ -12,7 +18,7 @@ body {
 
 
 .botao {
-    background-color: #0f00b1;
+    background-color: var(--branco-principal));
     border-radius: 10px;
     padding: 1em;
     color: white;
@@ -60,7 +66,7 @@ body {
 
 .botoes{
     text-align: center;
-    color: rgb(253, 253, 253);
+    color: var(--botao);
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
@@ -68,7 +74,7 @@ body {
 .botao1{
     font-style: none;
     padding: 1vh;
-    background-color: grey;
+    background-color: var(--botao);
     color: black;
     border-radius: 10px;
     border: solid transparent 1px;
@@ -78,7 +84,7 @@ body {
 .botao2 {
     font-style: none;
     padding: 1vh;
-    background-color: grey;
+    background-color: var(--botao);
     color: black;
     border-radius: 10px;
     border: solid transparent 1px;
@@ -88,7 +94,7 @@ body {
 .botao3{
     font-style: none;
     padding: 1vh;
-    background-color: grey;
+    background-color: var(--botao);
     color: black;
     border-radius: 10px;
     border: solid transparent 1px;
@@ -98,7 +104,7 @@ body {
 .botao4{
     font-style: none;
     padding: 1vh;
-    background-color: grey;
+    background-color: var(--botao);
     color: black;
     border-radius: 10px;
     border: solid transparent 1px;
