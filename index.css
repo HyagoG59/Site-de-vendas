@@ -9,9 +9,11 @@
 
 header {
     background-color: var(--padding);
+    color: var(--texto);
     text-align: center;
     padding: 10px;
     margin: 3vh;
+    border-radius: 3vh;
 
 }
 
