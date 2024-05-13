@@ -6,6 +6,12 @@
 
 }
 
+header {
+    padding: 10px;
+    margin: 3vh;
+
+}
+
 body {
     font-family: sans-serif;
     background-color: rgb(255, 255, 255);
