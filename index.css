@@ -3,10 +3,13 @@
     --botao: #0f00b1;
     --texto: #000000;
     --texto-botao: white;
+    --padding: #cccccc;
 
 }
 
 header {
+    background-color: var(--padding);
+    text-align: center;
     padding: 10px;
     margin: 3vh;
 
