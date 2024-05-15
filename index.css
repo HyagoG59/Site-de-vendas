@@ -38,7 +38,7 @@ body {
 .botaosecundario {
     background-color: transparent;
     color: black;
-    border: 5px;
+    border: solid 5px;
     border-radius: 5px;
     font-style: none;
 
