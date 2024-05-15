@@ -1,5 +1,5 @@
 :root {
-    --branco-principal: white;
+    --branco-principal: #ffff;
     --botao: #0f00b1;
     --texto: #000000;
     --texto-botao: white;
@@ -19,7 +19,7 @@ header {
 
 body {
     font-family: sans-serif;
-    background-color: rgb(255, 255, 255);
+    background-color: #000013000;
     color: rgb(0, 0, 0)
     
     
