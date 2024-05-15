@@ -45,6 +45,12 @@ body {
 
 }
 
+.aviso {
+    text-align: center;
+    font-size: small;
+
+}
+
 .conteiner {
     background-image: url(https://site-de-vendas-pi.vercel.app/61LqAe+zqOL._AC_UF894,1000_QL80_.jpg);
     background-repeat: no-repeat;
