@@ -32,6 +32,7 @@ body {
     font-style: none;
     margin-bottom: 2em;
     text-decoration: none;
+    display: block;
 
 }
 
@@ -41,7 +42,6 @@ body {
     color: black;
     border: solid 2px;
     border-radius: 5px;
-    font-style: none;
     text-decoration: none;
 
 
