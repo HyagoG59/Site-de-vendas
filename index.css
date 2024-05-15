@@ -33,7 +33,7 @@ body {
 }
 
 
-.botao {
+.botaoprincipal {
     background-color: var(--botao);
     color: var(--texto-botao);
     border-radius: 10px;
@@ -41,6 +41,15 @@ body {
     font-style: none;
     margin-bottom: 2em;
     text-decoration: none;
+
+}
+
+.botaosecundario {
+    background-color: transparent;
+    color: var(--texto);
+    border-radius: 5px;
+    font-style: none;
+    
 
 }
 
