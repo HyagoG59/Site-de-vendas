@@ -168,7 +168,7 @@ body {
 .conteiner3 {
     display: flex;
     grid-template-columns: 60% 40%;
-
+    align-items: center;
 }
 
 .promoçao {
