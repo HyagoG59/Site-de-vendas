@@ -62,7 +62,10 @@ body {
 }
 
 .caixa {
+    display: flex;
     margin: 0 6em;
+    flex-direction: column;
+    
 }
 
 .conteiner {
