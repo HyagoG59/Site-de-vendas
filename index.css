@@ -169,6 +169,7 @@ body {
     display: flex;
     grid-template-columns: 60% 40%;
     align-items: center;
+    text-align: justify;
 }
 
 .promoçao {
