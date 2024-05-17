@@ -190,6 +190,7 @@ body {
 
 .dispositivos {
     background-color: #535353;
+    color: var(--branco-principal);
     text-align: center;
 }
 
