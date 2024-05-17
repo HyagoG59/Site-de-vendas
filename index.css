@@ -194,12 +194,6 @@ body {
     text-align: center;
 }
 
-.titulodispositivos{
-    font: 48px;
-    color: var(--branco-principal);
-
-}
-
 .lista{
     display: flex;
     justify-content: center;
@@ -209,5 +203,11 @@ body {
 
 .listaitem{
     font-size: 32px;
+
+}
+
+.titulodispositivos{
+    font: 48px;
+    color: var(--branco-principal);
 
 }
