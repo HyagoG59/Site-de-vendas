@@ -207,7 +207,7 @@ body {
 }
 
 .titulodispositivos{
-    font: 48px;
+    font-size: 48px;
     color: var(--branco-principal);
 
 }
