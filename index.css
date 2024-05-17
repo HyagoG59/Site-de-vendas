@@ -194,6 +194,12 @@ body {
     text-align: center;
 }
 
+.dispostitulo{
+    font: 48px;
+    color: var(--branco-principal);
+
+}
+
 .lista{
     display: flex;
     justify-content: center;
