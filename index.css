@@ -4,7 +4,6 @@
     --texto: #000000;
     --texto-botao: white;
     --padding: #cccccc;
-    --dispositivos-rodape: #a1a1a1;
 
 }
 
@@ -190,7 +189,7 @@ body {
 }
 
 .dispositivos {
-    background-color: var(--dispositivos-rodape)
+    background-color: #a1a1a1;
     color: var(--branco-principal);
     text-align: center;
 }
@@ -215,7 +214,7 @@ body {
 }
 
 .rodape{
-    background-color: var(--dispositivos-rodape);
+    background-color: #a1a1a1;
     text-align: center;
 
 }
