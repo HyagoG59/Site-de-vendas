@@ -4,6 +4,7 @@
     --texto: #000000;
     --texto-botao: white;
     --padding: #cccccc;
+    --dispositivos-rodape: #a1a1a1;
 
 }
 
@@ -189,7 +190,7 @@ body {
 }
 
 .dispositivos {
-    background-color: #a1a1a1;
+    background-color: var(--dispositivos-rodape)
     color: var(--branco-principal);
     text-align: center;
 }
@@ -213,7 +214,13 @@ body {
 
 }
 
+.rodape{
+    background-color: var(--dispositivos-rodape);
+    text-align: center;
+
+}
+
 .logofunko {
     width: 5%;
-    text-align: center;
+
 }
