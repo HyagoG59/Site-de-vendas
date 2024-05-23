@@ -4,7 +4,7 @@
     --texto: #000000;
     --texto-botao: white;
     --padding: #cccccc;
-
+    --rodape-background: #000;
 }
 
 
@@ -224,7 +224,7 @@ body {
 }
 
 .rodape{
-    background-color: var(--texto);
+    background-color: var(--rodape-background);
     color: var(--branco-principal);
     text-decoration: none;
 }
