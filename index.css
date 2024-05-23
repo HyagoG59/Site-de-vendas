@@ -226,6 +226,7 @@ body {
 .rodape{
     background-color: var(--texto);
     color: var(--branco-principal);
+    text-decoration: none;
 }
 
 .rodapelista{
