@@ -225,14 +225,13 @@ body {
 
 .rodape{
     background-color: var(--texto);
-
+    color: var(--branco-principal);
 }
 
 .rodapelista{
     display: flex;
     justify-content: center;
     list-style: none;
-    color: var(--branco-principal);
 
 }
 
