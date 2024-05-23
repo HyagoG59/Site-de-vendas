@@ -223,10 +223,16 @@ body {
 
 }
 
+.rodape{
+    background-color: var(--texto);
+
+}
+
 .rodapelista{
     display: flex;
     justify-content: center;
     list-style: none;
+    color: var(--branco-principal);
 
 }
 
