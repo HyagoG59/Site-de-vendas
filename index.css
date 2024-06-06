@@ -237,6 +237,12 @@ body {
 
 }
 
+.listalink{
+    margin: 1em;
+    font-style: none;
+
+}
+
 .listalink a:hover {
     color: var(--botao);
 
