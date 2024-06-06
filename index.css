@@ -50,7 +50,7 @@ body {
 
 .botaosecundario {
     background-color: transparent; /* Cor de fundo transparente para o botão secundário */
-    border: 2px solid transparent; /* Adiciona borda transparente para o botão secundário */
+    border: 2px solid black; /* Adiciona borda transparente para o botão secundário */
 }
 
 .botaosecundario:hover {
