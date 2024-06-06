@@ -240,7 +240,7 @@ body {
 .listalink{
     margin: 1em;
     font-style: none;
-
+    color: var(--branco-principal);
 }
 
 .listalink a:hover {
