@@ -29,8 +29,31 @@ body {
 
 .botaoprincipal,
 .botaosecundario {
-    display: block; /* Faz com que os botões sejam exibidos como blocos para ocupar toda a largura disponível */
+    display: inline-block; /* Exibe os botões como blocos em linha */
+    padding: 10px 20px; /* Adiciona preenchimento interno aos botões */
+    text-decoration: none; /* Remove sublinhado padrão dos links */
+    color: #fff; /* Cor do texto */
+    background-color: #FF5733; /* Cor de fundo do botão principal */
+    border: 2px solid #FF5733; /* Adiciona borda ao botão principal */
+    border-radius: 5px; /* Adiciona cantos arredondados ao botão */
+    font-size: 16px; /* Tamanho da fonte */
     margin-bottom: 10px; /* Adiciona espaço entre os botões */
+}
+
+.botaoprincipal:hover,
+.botaosecundario:hover {
+    background-color: #FF8C66; /* Cor de fundo do botão ao passar o mouse */
+    border-color: #FF8C66; /* Cor da borda ao passar o mouse */
+}
+
+.botaosecundario {
+    background-color: #333; /* Cor de fundo do botão secundário */
+    border-color: #333; /* Cor da borda do botão secundário */
+}
+
+.botaosecundario:hover {
+    background-color: #555; /* Cor de fundo do botão secundário ao passar o mouse */
+    border-color: #555; /* Cor da borda do botão secundário ao passar o mouse */
 }
 
 .aviso {
