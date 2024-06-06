@@ -24,34 +24,13 @@ body {
 }
 
 .conteinerbotao {
-    margin-bottom: 0 1em;
-
+    text-align: center; /* Centraliza os elementos */
 }
 
-.botaoprincipal {
-    background-color: blue;
-    color: white;
-    border: 2px solid;
-    border-radius: 10px;
-    padding: 1em;
-    font-style: none;
-    font-size: 25px;
-    text-decoration: none;
-}
-
-
+.botaoprincipal,
 .botaosecundario {
-    background-color: transparent;
-    color: black;
-    border: 2px solid;
-    border-radius: 10px;
-    padding: 1em;
-    text-decoration: none;
-    font-size: 25px;
-    margin-bottom: 40px;
-    
-
-
+    display: block; /* Faz com que os botões sejam exibidos como blocos para ocupar toda a largura disponível */
+    margin-bottom: 10px; /* Adiciona espaço entre os botões */
 }
 
 .aviso {
@@ -250,10 +229,5 @@ body {
 
 .listalink a:hover {
     color: var(--botao);
-
-}
-
-.style{
-    font-style: none;
 
 }
