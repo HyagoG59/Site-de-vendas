@@ -33,7 +33,7 @@ body {
     padding: 10px 20px; /* Adiciona preenchimento interno aos botões */
     text-decoration: none; /* Remove sublinhado padrão dos links */
     color: #fff; /* Cor do texto */
-    background-color: var(--botao) /* Cor de fundo do botão principal */
+    background-color: #0f00b1 /* Cor de fundo do botão principal */
     border: 2px solid #FF5733; /* Adiciona borda ao botão principal */
     border-radius: 5px; /* Adiciona cantos arredondados ao botão */
     font-size: 16px; /* Tamanho da fonte */
