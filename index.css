@@ -32,7 +32,7 @@ body {
     display: inline-block; /* Exibe os botões como blocos em linha */
     padding: 12px 24px; /* Adiciona preenchimento interno aos botões */
     text-decoration: none; /* Remove sublinhado padrão dos links */
-    color: #fff; /* Cor do texto */
+    color: #000000; /* Cor do texto */
     border-radius: 5px; /* Adiciona cantos arredondados ao botão */
     font-size: 16px; /* Tamanho da fonte */
     margin-bottom: 10px; /* Adiciona espaço entre os botões */
