@@ -243,6 +243,11 @@ body {
     color: var(--branco-principal);
 }
 
+.rodapetexto{
+    margin: 1em;
+
+}
+
 .listalink a:hover {
     color: var(--botao);
 
